@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yasno.wtf/static/css/main.20db5115.css",
+    "main.js": "/yasno.wtf/static/js/main.ff128f2c.js",
+    "index.html": "/yasno.wtf/index.html",
+    "main.20db5115.css.map": "/yasno.wtf/static/css/main.20db5115.css.map",
+    "main.ff128f2c.js.map": "/yasno.wtf/static/js/main.ff128f2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20db5115.css",
+    "static/js/main.ff128f2c.js"
+  ]
+}
